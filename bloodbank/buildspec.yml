@@ -1,0 +1,27 @@
+version: 0.2
+phases:
+  pre_build:
+    commands:
+      - echo "Entered in prebuild phase";
+  build:
+    commands:
+      - echo "Entered in build phase"
+  post_build:
+    commands:
+      - echo "Enteredin post-build phase"
+artifacts:
+  files:
+    - abs.php
+    - bloodinfo.php
+    - bloodrequest.php
+    - footer.php
+    - head.php
+    - header.php
+    - hprofile.php
+    - index.php
+    - login.php
+    - logout.php
+    - message.php
+    - register.php
+    
+    
