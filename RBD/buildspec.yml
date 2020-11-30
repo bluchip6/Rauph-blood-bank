@@ -24,7 +24,6 @@ artifacts:
     - message.php
     - register.php
     - sentrequest.php
-
     - '**/*'
     
     
