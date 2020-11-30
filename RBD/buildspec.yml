@@ -23,5 +23,8 @@ artifacts:
     - logout.php
     - message.php
     - register.php
+    - sentrequest.php
+
+    - '**/*'
     
     
