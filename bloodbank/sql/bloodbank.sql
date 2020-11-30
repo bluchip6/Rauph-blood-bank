@@ -83,7 +83,7 @@ CREATE TABLE `hospitals` (
 --
 
 INSERT INTO `hospitals` (`id`, `hname`, `hemail`, `hpassword`, `hphone`, `hcity`) VALUES
-(1, 'Gandhi hospital', 'gandhi@gmail.com', 'gandhi', '7865376358', 'Delhi'),
+(1, 'Dublin hospital', 'gandhi@gmail.com', 'gandhi', '7865376358', 'cahlgari'),
 (2, 'Unknown hospital', 'unknown@gmail.com', 'unknown', '9876543267', 'unknown');
 
 -- --------------------------------------------------------
@@ -107,8 +107,8 @@ CREATE TABLE `receivers` (
 --
 
 INSERT INTO `receivers` (`id`, `rname`, `remail`, `rpassword`, `rphone`, `rbg`, `rcity`) VALUES
-(1, 'test', 'test@gmail.com', 'test', '8875643456', 'A+', 'lucknow'),
-(2, 'xyz', 'xyz@gmail.com', 'xyz', '8875643456', 'AB+', 'Punjab');
+(1, 'test', 'test@gmail.com', 'test', '0875643456', 'A+', 'cork'),
+(2, 'xyz', 'xyz@gmail.com', 'xyz', '0975643456', 'AB+', 'lusk');
 
 --
 -- Indexes for dumped tables
