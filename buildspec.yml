@@ -5,8 +5,6 @@ phases:
       - echo "Entered in prebuild phase";
   build:
     commands:
-      - cd aws
-      - npm i
       - echo "Entered in build phase"
   post_build:
     commands:
