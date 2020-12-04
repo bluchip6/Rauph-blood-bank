@@ -10,7 +10,7 @@ phases:
       - echo "Entered in build phase"
   post_build:
     commands:
-      - echo "Enteredin post-build phase"
+      - echo "Entered in post-build phase"
 artifacts:
   files:
     - abs.php
