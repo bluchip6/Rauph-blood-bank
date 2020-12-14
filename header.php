@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-sm navbar-light bg-light sticky-top">
 	<div class="container">
-		<a class="navbar-brand" href="index.php"> NEHA Blood Donor</a>
+		<a class="navbar-brand" href="index.php"> RAUF BBMS</a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"><i class="fas fa-align-left"></i></span>
           </button>

@@ -14,11 +14,7 @@
    <?php require 'message.php'; ?>
 
         <div class="row justify-content-center">
-            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5 col-xs-6 mb-5" style="width: 60%">
-                <div class="card">
-                    <img src="image/bg.png" class="card-img-top">
-                </div>
-            </div>
+            
 
             <div class="col-lg-9">
             <div class="row">
