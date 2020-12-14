@@ -83,7 +83,7 @@ CREATE TABLE `hospitals` (
 --
 
 INSERT INTO `hospitals` (`id`, `hname`, `hemail`, `hpassword`, `hphone`, `hcity`) VALUES
-(1, 'Dublin hospital', 'gandhi@gmail.com', 'gandhi', '7865376358', 'cahlgari'),
+(1, 'Dublin hospital', 'g@gmail.com', 'gandhi', '7865376358', 'cahlgari'),
 (2, 'Unknown hospital', 'unknown@gmail.com', 'unknown', '9876543267', 'unknown');
 
 -- --------------------------------------------------------
